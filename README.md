@@ -1,7 +1,7 @@
 # E-commerce
 Multi-Page Ecommerce Website with HTML, CSS and JavaScript
 
-![alt text](http://url/to/img.png)
+![img](https://github.com/sukant-sh/E-commerce/assets/110557223/90299010-79f8-4d10-bbf3-1a52e188fd93)
 
 ![img2](https://github.com/sukant-sh/E-commerce/assets/110557223/408d1086-7688-4d3a-a792-5f30d4db0163)
 
